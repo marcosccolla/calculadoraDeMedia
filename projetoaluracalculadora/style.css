@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://www.sebrae.com.br/file_source/Sebrae/Portal%20Sebrae/UFs/AP/Imagens/Calculadora.png");
+    background-color: #000000;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 85vh;
+  }
+  
+  .page-title {
+    color: #435fd4;
+    margin: 0 0 5px;
+    padding: 20px;
+    font-size: 40px;
+  }
+  
+  .page-subtitle {
+    color: #ffff00;
+    margin-bottom: 25px;
+    font-size: 20px;
+  }
+  
+  .page-logo {
+    width: 200px;
+    border-radius: 4px;
+    padding-left: 5px;
+    background: -webkit-linear-gradient(left, #4ac0e3, #356fbf);
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .button {
+    cursor: pointer;
+    padding: 10px;
+    background: -webkit-linear-gradient(left, #4ac0e3, #356fbf);
+  }
+  
+  .button:hover {
+    background: #bf358a;
+  }
+  
+  .input {
+    padding: 10px;
+    width: 60px;
+  
+  }
+  .resultado {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+  
+  }
+  
+  
