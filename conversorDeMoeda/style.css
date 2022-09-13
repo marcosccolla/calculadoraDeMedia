@@ -1,0 +1,82 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url(https://thumbs.dreamstime.com/b/moeda-de-bitcoin-d%C3%B3lar-euro-libra-esterlina-ienes-e-yuan-digitais-no-formul%C3%A1rio-do-ber%C3%A7o-newton-conceito-da-finan%C3%A7a-mundo-101923610.jpg);
+    background-color: #000000;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 15px  5px;
+    font-size: 50px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 50px;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    color: rgb(179, 43, 25);
+  }
+  
+  input {
+    margin: 12px;
+    padding: 8px;
+    border-radius: 5px;
+    width: 48px;
+  }
+  
+  label {
+    color: #ffffff;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+    cursor: pointer;
+  }
+  
+  .resultado {
+    color:#dddd09;
+    font-size: 40px;
+    padding: 5px;
+  }
+  
+  .container .sub-moeda {
+    font-size: 25px;
+  }
+  
+  .moeda {
+    color: #ffffff;
+  }
+
+  button {
+    color: #000000;
+    background: rgb(194, 178, 93);
+    padding: 10px;
+  }
+  
+  option {
+    font-size: 15px;
+  }
+  
